@@ -43,6 +43,22 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 ### CICA
 ### EDGE
 ### Eventos
+- **AraComp (2018)**
+
+    Congresso de Computação, com workshops, minicursos, palestras, competições e muitas outras atividades relacionadas ao curso de Ciência da Computação.
+
+- **Maratona de programação (2021)**
+
+    No ano de 2021, o curso de Ciência da Computação participará da XXVI Maratona de Programação, evento da Sociedade Brasileira de Computação que ocorre desde 1996. A competição busca despertar nos estudantes a criatividade, o trabalho em equipe, a busca de novas soluções de software e a habilidade de resolver problemas sob pressão.
+
+- [HACKatie](https://doity.com.br/hackatie)
+
+    Hackathon (maratona de programação) em comemoração ao aniversário do grupo Katie Arapiraca. O evento finalizou, este ano, sua segunda edição, e reuniu programadoras, designers e profissionais de desenvolvimento de software.
+
+- [ERBASE](https://erbase2021.ifal.edu.br/index.html) (2021)
+
+    Minicursos com o objetivo de abordar temas relevantes no âmbito da computação, geralmente não ministrados nas grades curriculares dos cursos de graduação.
+
 ### CACC
 ### Laboratórios
 ### Mestrados e Doutorados

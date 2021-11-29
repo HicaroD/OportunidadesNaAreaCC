@@ -21,15 +21,19 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 ## Conteúdo
 ### Monitorias
 - O que é a monitoria?
+
     A monitoria nada mais é do que um projeto de ensino, onde um aluno   que foi aprovado em determinada disciplina, se predispõe a fazer um exame de seleção com outros estudantes, no intuito de concorrer a uma vaga de monitor, para auxiliar o professor e estudantes da disciplina durante um período letivo. Essa é a definição formal. No mais, você ajudará os alunos nas atividades em determinado tempo (12h por semana), 4h para atendimento ao aluno, 4h para revisão de conteúdo e 4h para ajudar o professor. Alguns professores pedem para que os monitores elaborem listas de exercícios da disciplina.
 
 - Como funciona?
+
     12h de carga horária para cumprir, sendo somente 4h para atendimento aos estudantes, presencialmente esse atendimento é feito na biblioteca. Os dias de atendimento são estipulados por um acordo entre monitor e professor para verificar quais os melhores dias para realizar o atendimento e auxiliar os alunos em questões de dúvida, tanto de trabalho quanto de prova.
 
 - Como se tornar um monitor?
+
      Basicamente você tem que ser aprovado na disciplina com uma média maior do que 7 e quando forem abertas as vagas para monitorias (1º semana do período), você tem que realizar a inscrição para concorrer com os outros alunos inscritos. Por questões de cortes de gastos, a maioria das monitorias estão sendo voluntárias ( sem bolsa). Para acompanhar os editais, verifique este perfil: @monitoria_ufal.  Caso não haja concorrência, o aluno inscrito passa automaticamente sem testes ou provas.
 
 - Como saber mais sobre?
+
      Para saber mais sobre a monitoria, é possível realizar uma pesquisa no site da própria ufal, digite [“monitoria ufal”](https://ufal.br/@@search?SearchableText=monitorias), existirá uma página destinada a monitoria, contendo todas as questões burocráticas sobre a monitoria, explicando detalhadamente cada tópico sobre. 
 
      É possível entrar em contato com o professor Tércio (tercio@arapiraca.ufal.br), que atualmente é o vice-coordenador e também coordenador de monitorias do curso de  Ciência Da Computação.

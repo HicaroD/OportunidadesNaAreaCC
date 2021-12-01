@@ -12,6 +12,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
   - [EDGE](#edge)
   - [Eventos](#eventos)
   - [CACC](#cacc)
+  - [Katie](#katie)
   - [Laboratórios](#laboratórios)
   - [Mestrados e Doutorados](#mestrados-e-doutorados)
   - [Pós-graduação](#pós-graduação)
@@ -60,6 +61,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
     Minicursos com o objetivo de abordar temas relevantes no âmbito da computação, geralmente não ministrados nas grades curriculares dos cursos de graduação.
 
 ### CACC
+### Katie
 ### Laboratórios
 ### Mestrados e Doutorados
 ### Pós-graduação

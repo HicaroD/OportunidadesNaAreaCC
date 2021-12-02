@@ -14,7 +14,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
   - [CACC](#cacc)
   - [Katie](#katie)
   - [Laboratórios](#laboratórios)
-  - [Mestrados e Doutorados](#mestrados-doutorados-e-especializações)
+  - [Mestrados, Doutorados e especializações](#mestrados-doutorados-e-especializações)
   - [Pós-graduação](#pós-graduação)
   - [Projeto de Extensão / Pesquisa](#projeto-de-extensão-e-pesquisa)
   - [Intercâmbios](#intercâmbios)

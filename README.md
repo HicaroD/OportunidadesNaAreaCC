@@ -92,6 +92,28 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 **Nota importante:** Cada faculdade tem o seu próprio processo seletivo, porém em todas as faculdades se é publicado um edital com os passos a serem seguidos para inscrição,seleção e matrícula dos candidatos.
 
 ### Projeto de Extensão e Pesquisa
+- Pesquisa
+
+- Extensão
+
+    1. O que é o projeto de extensão?
+        
+        "Processo educativo, cultural e científico que articula o ensino e a pesquisa de forma indissociável e viabiliza a relação transformadora entre a universidade e a sociedade".
+
+        A Universidade Federal de Alagoas assume a extensão como uma das dimensões da vida acadêmica, ou seja, uma forma de vivenciar o processo ensino-aprendizagem além dos limites da sala de aula, com a possibilidade de articular a universidade às diversas organizações da sociedade, numa enriquecedora troca de conhecimentos e experiências. 
+
+        Por fazer parte da formação acadêmica, a extensão se materializa através de programas e projetos apresentados pelas diversas Unidades Acadêmicas ou por eles assumidos, quando a demanda é externa à Universidade. As atividades podem ser coordenadas por docentes e técnico-administrativos.
+
+    2. Como submeter uma ação de extensão?
+
+        As ações de extensão da UFAL são cadastradas, avaliadas, geridas e certificadas através da plataforma [SIGAA](http://sigaa.sig.ufal.br/sigaa/public/home.jsf). O interessado em submeter uma ação deve seguir os passos que constam no manual de submissão e acompanhar o fluxo da ação (para mais informações, ler fluxo de extensão). Todo o trâmite da ação submetida é on-line.
+
+    3. Coordenação de Extensão e Cultura (COORDEX)
+
+       - Dorgival Morais de Lima Júnior - dorgival.junior@arapiraca.ufal.br.
+       - Programas: PROINART, PROCCAExt, Maninha Xukuru-Karirl
+
+
 ### Intercâmbios
 - **Importância dos intercâmbios na vida do estudante**
     

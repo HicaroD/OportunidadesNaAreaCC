@@ -64,16 +64,27 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 ### Katie
 ### Laboratórios
 ### Mestrados e Doutorados
-### Pós-graduação
+- **O que é um mestrado?**
+
+    O mestrado acadêmico é um curso que aprofunda o aprendizado da graduação. O objetivo é ampliar o conhecimento sobre um tema de interesse acadêmico e estimular a reflexão teórica. Em média, o mestrado tem duração de dois anos. Leia mais [aqui](https://guiadoestudante.abril.com.br/pos-graduacao/entenda-como-funciona-o-mestrado/): 
+
+- **O que é um doutorado?**
+
+    O curso que oferece um conhecimento teórico mais profundo do que o mestrado acadêmico, buscando avanços reais no conhecimento.Tem uma duração de quatro a cinco anos. Leia mais [aqui](https://guiadoestudante.abril.com.br/pos-graduacao/entenda-como-funciona-o-doutorado/) 
+    ![Imagem sobre doutorado e mestrado](https://network.grupoabril.com.br/wp-content/uploads/sites/4/2016/10/tipos-pos-31.jpg?quality=70&strip=all)
+
+*Fonte: guiadoestudante.abril.com.br/*
+
+### Pós-graduação no Brasil e exterior
 ### Projeto de Extensão e Pesquisa
 ### Intercâmbios
-- Importância dos intercâmbios na vida do estudante
+- **Importância dos intercâmbios na vida do estudante**
     
    Em uma pequena entrevista com um ex-discente do curso de Ciência da Computação do Campus Arapiraca chamado Silas Emanoel de Holanda Santos o qual participou de diversos intercâmbios em diversos países, como Portugal e Canadá, ele descreveu suas experiências e o quão importante os intercâmbios foram para sua carreira profissional. Segundo Silas, as experiências obtidas ainda geram frutos hodiernamente, elas contribuiram para a sua formação como ser humano e como um profissional mais hábil para enfrentar os desafios em sua área. Silas, em seu intercâmbio para o Canadá no ano de 2015, ele participou de congressos e centros de ensino que permitiram a ampliação de seus conhecimentos nos mais diversos campos da ciência, como Engenharia Civil, Engenharia Espacial e a Medicina.
 
    Para todos os discentes e não-discentes que pretendem participar de um intercâmbio, mas estão inseguros em relação a como esse mundo de intercâmbios funciona, o Silas possui uma mensagem para vocês: *"Sem sombra de dúvidas: Realize o intercâmbio! A experiência abre os olhos para um novo horizonte e, é possível vislumbrar novas áreas de atuação dentro do curso, bem como ter contato com as pessoas que escrevem os livros que estudamos ou, ainda, ter contato com pessoas que contribuem para um network em todos os cantos do planeta. Vençam a barreira do medo da língua, seja ela qual for. Sair da zona de conforto e não ficar limitado as 4 paredes da sala de aula foi decisivo para que eu vivesse todas essas experiências"*
 
-- Programa Ciência Sem Fronteiras (descontinuado)
+- **Programa Ciência Sem Fronteiras (descontinuado)**
 
     [Em 2014, a UFAL aprovou os alunos para o programa "Ciência Sem Fronteiras"](https://ufal.br/ufal/noticias/2012/07/ufal-aprova-alunos-para-o-programa-ciencia-sem-fronteiras). Infelizmente, o programa foi descontinuado, entretanto tal programa tinha o fito de expandir internacionalmente a tecnologia brasileira por meio de intercâmbios e projetos, dessa forma muitos alunos (graduação e pós-graduação) poderiam fazer estágios no exterior. Essas bolsas eram válidas para diversos países, como Austrália, Canadá, Espanha, Portugal, Reino Unido, Estados Unidos e Itália. Na época, havia um auxílio de 300 dólares mensais para manutenção, 870 dólares para a instalação na cidade destino, além das despesas de viagens que eram também pagas. Todo esse valor era depositado na conta dos alunos para eles se organizarem com antecedência. 
     

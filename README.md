@@ -92,11 +92,24 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 **Nota importante:** Cada faculdade tem o seu próprio processo seletivo, porém em todas as faculdades se é publicado um edital com os passos a serem seguidos para inscrição,seleção e matrícula dos candidatos.
 
 ### Projeto de Extensão e Pesquisa
-- Pesquisa
+- **Pesquisa**
+    
+    1. Informações
+        1. Coordenadoria de Pesquisa e de Pós-graduação
+        2. [Instruções para criação de grupos de pesquisa](https://ufal.br/ufal/pesquisa-e-inovacao/grupos-de-pesquisa/instrucoes-do-grupo-de-pesquisa)
+        3. Comitê Assessor da PROPEP
+        4. Programas
+            - PIBIC (Programa Institucional de Bolsas de Iniciação Científica)
+            - PROAP (Programa de Apoio a Pós-graduação)
+    2. Contato
+        1. Coordenador: [Dorgival Morais de Lima Júnior](mailto:dorgival.junior@arapiraca.ufal.br)
+        2. Telefone: 34821807
 
-- Extensão
+    3. Congresso de Inovação e Tecnologia em Diagnóstico Laboratorial no Agreste Alagoano - CInTec
 
-    1. O que é o projeto de extensão?
+- **Extensão**
+
+    1. **O que é o projeto de extensão?**
         
         "Processo educativo, cultural e científico que articula o ensino e a pesquisa de forma indissociável e viabiliza a relação transformadora entre a universidade e a sociedade".
 
@@ -104,11 +117,11 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 
         Por fazer parte da formação acadêmica, a extensão se materializa através de programas e projetos apresentados pelas diversas Unidades Acadêmicas ou por eles assumidos, quando a demanda é externa à Universidade. As atividades podem ser coordenadas por docentes e técnico-administrativos.
 
-    2. Como submeter uma ação de extensão?
+    2. **Como submeter uma ação de extensão?**
 
         As ações de extensão da UFAL são cadastradas, avaliadas, geridas e certificadas através da plataforma [SIGAA](http://sigaa.sig.ufal.br/sigaa/public/home.jsf). O interessado em submeter uma ação deve seguir os passos que constam no manual de submissão e acompanhar o fluxo da ação (para mais informações, ler fluxo de extensão). Todo o trâmite da ação submetida é on-line.
 
-    3. Coordenação de Extensão e Cultura (COORDEX)
+    3. **Coordenação de Extensão e Cultura (COORDEX)**
 
        - Dorgival Morais de Lima Júnior - dorgival.junior@arapiraca.ufal.br.
        - Programas: PROINART, PROCCAExt, Maninha Xukuru-Karirl

@@ -15,7 +15,6 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
   - [Katie](#katie)
   - [Laboratórios](#laboratórios)
   - [Mestrados, Doutorados e especializações](#mestrados-doutorados-e-especializações)
-  - [Pós-graduação](#pós-graduação)
   - [Projeto de Extensão / Pesquisa](#projeto-de-extensão-e-pesquisa)
   - [Intercâmbios](#intercâmbios)
 

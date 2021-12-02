@@ -63,7 +63,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 ### CACC
 ### Katie
 ### Laboratórios
-### Mestrados e Doutorados
+### Mestrados, Doutorados e especializações
 - **O que é um mestrado?**
 
     O mestrado acadêmico é um curso que aprofunda o aprendizado da graduação. O objetivo é ampliar o conhecimento sobre um tema de interesse acadêmico e estimular a reflexão teórica. Em média, o mestrado tem duração de dois anos. Leia mais [aqui](https://guiadoestudante.abril.com.br/pos-graduacao/entenda-como-funciona-o-mestrado/): 
@@ -75,7 +75,21 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 
 *Fonte: guiadoestudante.abril.com.br/*
 
-### Pós-graduação no Brasil e exterior
+- **Pós-graduação no Brasil**
+    1. **Como escolher um mestrado ou doutorado?**
+
+        É sempre bom, ao pesquisar programas de mestrado ou doutorado, olhar qual é a nota do conceito CAPES. E o seria isso? O Conceito CAPES é uma avaliação periódica dos cursos de pós-graduação (mestrados e doutorados) do país, atualmente realizada a cada 4 anos.Na escala do mestrado, a nota máxima é 5. Já para o doutorado, 7 é o conceito máximo. Leia mais sobre ao que se refere cada nota do [conceito CAPES](https://www.ifsudestemg.edu.br/noticias/sjdr/2020/12/biblioteca-esclarece-sobre-o-que-e-o-conceito-capes#)
+
+        A PUCRS(Pontifícia Universidade Católica do Rio Grande do Sul) escreveu um artigo descrevendo como escolher qual linha de pesquisa seguir no mestrado ou doutorado e como essa decisão influencia tanto na elaboração do projeto de pesquisa quanto na preparação para a seleção do Pós-Graduação. Leia o artigo [aqui](https://www.pucrs.br/blog/como-escolher-qual-linha-de-pesquisa-seguir-no-mestrado-e-doutorado/)
+
+    2. **O que é o Instituto de Computação da UFAL?**
+
+        O Instituto de Computação (IC) da Universidade Federal de Alagoas (UFAL) é a unidade acadêmica responsável pelo desenvolvimento do ensino, pesquisa e extensão nas áreas de Computação e Estatística. O IC realiza a formação de recursos humanos através de seus cursos regulares de graduação e de pós-graduação (mestrado) e cursos eventuais de especialização e extensão.
+
+        O IC conta hoje com dois programas, o PPGMCC - Programa de Pós-graduação em Modelagem Computacional de Conhecimento, iniciado em 2004 e que conta com um mestrado, e com o PPGI - Programa de Pós-graduação em Informática, iniciado em 2012, que conta também com um mestrado.
+
+        Agora, como funciona o processo seletivo? Para isso, é lançado um edital na página do mestrado e com ele se dá início ao processo seletivo. Nele contém todas as informações relevantes,como o prazo do processo,a quantidade de vagas e as etapas a serem seguidas. Usualmente é feito duas etapas: Avaliação do Pré-Projeto de Pesquisa(PP) e Prova de Título(PT). E o resultado final é dado pela média ponderada das notas atribuídas a cada uma das etapas.
+
 ### Projeto de Extensão e Pesquisa
 ### Intercâmbios
 - **Importância dos intercâmbios na vida do estudante**

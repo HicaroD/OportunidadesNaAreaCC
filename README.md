@@ -66,7 +66,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 ### Mestrados, Doutorados e especializações
 - **O que é um mestrado?**
 
-    O mestrado acadêmico é um curso que aprofunda o aprendizado da graduação. O objetivo é ampliar o conhecimento sobre um tema de interesse acadêmico e estimular a reflexão teórica. Em média, o mestrado tem duração de dois anos. Leia mais [aqui](https://guiadoestudante.abril.com.br/pos-graduacao/entenda-como-funciona-o-mestrado/): 
+    O mestrado acadêmico é um curso que aprofunda o aprendizado da graduação. O objetivo é ampliar o conhecimento sobre um tema de interesse acadêmico e estimular a reflexão teórica. Em média, o mestrado tem duração de dois anos. Leia mais [aqui](https://guiadoestudante.abril.com.br/pos-graduacao/entenda-como-funciona-o-mestrado/).
 
 - **O que é um doutorado?**
 

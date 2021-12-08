@@ -95,6 +95,27 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
     Para mais informações e conteúdos sobre o CACC, siga-os no [instagram](https://www.instagram.com/caccadalovelace/) e fique por dentro de tudo!
 
 ### Katie
+
+- **O que é o projeto Katie?**
+
+    É um projeto de extensão feito por meninas estudantes de Ciência da Computação do Instituto de Computação da UFAL. E que agora estará presente também na UFAL campus Arapiraca sob coordenação da Professora Raquel Cabral, a qual pretende aumentar a abrangência do projeto nos campi do interior.
+
+- **Qual é o objetivo do Katie?**
+
+    As áreas de Ciência, Engenharia, Matemática e Tecnologia são predominantemente masculinas, isso faz com que muitas meninas se sintam  pressionadas e se sintam incapazes de estarem ali. Por isso, o Katie promove ações de apoio, incentivo e auxílio para meninas na área de computação e exatas. A ideia principal do Katie é proporcionar movimentos que ajudem as meninas a se firmarem nessas áreas. Vale ressaltar que o Katie busca a equidade entre homens e mulheres nas áreas de tecnologia.
+
+- **Quais são as principais ações do Katie?**
+
+    Para difundir a ideia de força feminina na ciência, o projeto Katie promove outros projetos, dentro e fora da UFAL, como workshops a fim de incentivar  meninas a escolherem a graduação nas áreas de ciência, engenharia, matemática e tecnologia. Além de que, as ações do Katie fazem as meninas se unirem propondo o reconhecimento de todas as pessoas e mostrarem que são capazes de fazer qualquer coisa, assim como os homens.
+
+- **Como participar do Katie?**
+
+    Como o Katie Arapiraca é um projeto mais recente ainda não dá para participar ativamente. Contudo para obter mais informações acerca do projeto, verifique este perfil [Katie Arapiraca](https://www.instagram.com/katie.arapiraca/).
+
+- **Curiosidades do Katie**
+
+    O nome do projeto foi inspirado na jovem cientista da computação Katie Bouman, que foi uma das responsáveis pela reprodução da primeira imagem de um buraco negro. E, assim como Katie Bouman, o projeto Katie busca incentivar mulheres a fazerem descobertas incríveis.
+
 ### Laboratórios
 ### Mestrados, Doutorados e especializações
 - **O que é um mestrado?**

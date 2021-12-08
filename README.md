@@ -39,6 +39,26 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
      É possível entrar em contato com o professor Tércio (tercio@arapiraca.ufal.br), que atualmente é o vice-coordenador e também coordenador de monitorias do curso de  Ciência Da Computação.
 
 ### Estágios
+- **O que são estágios?**
+
+    O estágio é a prática na qual um estudante, ainda durante o curso de graduação, presta serviços a uma determinada empresa dentro da sua área de atuação, mas sem vínculo empregatício. Ele proporciona ao aluno a experiência necessária para que este saia da faculdade mais preparado, já conhecendo as rotinas da sua área profissional e tendo chances mais concretas de disputar uma vaga no mercado de trabalho. 
+
+- **Como conseguir um estágio em Ciência da Computação?**
+
+    Hoje em dia, o campo da Ciência da Computação é um campo altamente competitivo. Dessa forma, é exigido do candidato perseverança e persistência no processo de candidatura para se conseguir uma boa posição de estágio. Desse modo, você pode começar a procurar por alguns recursos disponíveis para você poder encontrar um estágio em Ciência da Computação. 
+ 
+    O básico é começar fazendo uma pesquisa na internet e encontrar sites de emprego com as melhores classificações. Dentro deles, você pesquisará por estágios na sua área e também poderá encontrar outros possíveis nomes que a sua função desejada possa vir a ter. Depois, é recomendado criar um perfil no LinkedIn, em que as empresas e candidatos mantêm perfis que podem ser conectados com outros profissionais do segmento. 
+ 
+    Uma outra alternativa também é entrar em contato com os escritórios de orientação acadêmica e planejamento de carreira da sua faculdade, ou então com os professores e veteranos. Outra opção também seria usar a sua rede atual para buscar oportunidades, perguntando por oportunidades para um amigo seu que já trabalha na área, sem dúvidas você deve ter algum. 
+
+- **Onde os estágios podem ser realizados?**
+
+    - Instituições de ensino e pesquisa;
+    - Empresas privadas;  
+    - Setores da Universidade que apresentem possibilidades de atuação relacionadas à formação profissional e interdisciplinar do estudante, com atividades relacionadas à formação acadêmica do estagiário. 
+
+Aprenda mais sobre como estágios funcionam na UFAL lendo o manual do estágio [aqui](https://arapiraca.ufal.br/graduacao/ciencia-da-computacao/documentos/manual_estagio.pdf/view)
+
 ### GEDAI
 ### CICA
 ### EDGE

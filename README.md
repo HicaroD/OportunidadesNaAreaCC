@@ -57,7 +57,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
     - Empresas privadas;  
     - Setores da Universidade que apresentem possibilidades de atuação relacionadas à formação profissional e interdisciplinar do estudante, com atividades relacionadas à formação acadêmica do estagiário. 
 
-Aprenda mais sobre como estágios funcionam na UFAL lendo o manual do estágio [aqui](https://arapiraca.ufal.br/graduacao/ciencia-da-computacao/documentos/manual_estagio.pdf/view)
+    Aprenda mais sobre como estágios funcionam na UFAL lendo o manual do estágio [aqui](https://arapiraca.ufal.br/graduacao/ciencia-da-computacao/documentos/manual_estagio.pdf/view)
 
 ### GEDAI
 ### CICA

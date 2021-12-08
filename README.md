@@ -79,7 +79,19 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 
     Minicursos com o objetivo de abordar temas relevantes no âmbito da computação, geralmente não ministrados nas grades curriculares dos cursos de graduação.
 
-### CACC
+### CACC (Centro Acadêmico de Ciência da Computação)
+![adaLovelace](Imagens/download.jpeg)
+
+- Para quê serve?
+    CACC capacita o profissional para atuar no desenvolvimento de programas de informática, com a utilização das mais diversas ferramentas, das mais simples até as mais complexas, ligadas ao processamento de informações.
+
+- Quais os objetivos do centro acadêmico e como ele funciona?
+    O C.A. tem por objetivo reconhecer, estimular e levar adiante a luta dos estudantes do curso de Ciência da Computação.
+
+    CACC tem em destaque o Enade é um componente curricular obrigatório, é uma condição necessária para a conclusão do curso de graduação. O exame avalia o rendimento dos concluintes em relação aos conteúdos programáticos previstos nas diretrizes curriculares dos cursos. Com os resultados serão construídos referenciais que permitam a definição de ações voltadas à melhoria da qualidade de professores, técnicos, dirigentes e autoridades educacionais.
+
+    Para mais informações e conteúdos sobre o CACC, siga-os no [instagram](https://www.instagram.com/caccadalovelace/) e fique por dentro de tudo!
+
 ### Katie
 ### Laboratórios
 ### Mestrados, Doutorados e especializações

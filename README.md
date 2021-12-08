@@ -95,7 +95,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
     Para mais informações e conteúdos sobre o CACC, siga-os no [instagram](https://www.instagram.com/caccadalovelace/) e fique por dentro de tudo!
 
 ### Katie
-
+![katie](Imagens/259085976_3043042302691074_6037594137446582976_n.jpg)
 - **O que é o projeto Katie?**
 
     É um projeto de extensão feito por meninas estudantes de Ciência da Computação do Instituto de Computação da UFAL. E que agora estará presente também na UFAL campus Arapiraca sob coordenação da Professora Raquel Cabral, a qual pretende aumentar a abrangência do projeto nos campi do interior.

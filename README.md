@@ -144,7 +144,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 
         Agora, como funciona o processo seletivo? Para isso, é lançado um edital na página do mestrado e com ele se dá início ao processo seletivo. Nele contém todas as informações relevantes,como o prazo do processo,a quantidade de vagas e as etapas a serem seguidas. Usualmente é feito duas etapas: Avaliação do Pré-Projeto de Pesquisa(PP) e Prova de Título(PT). E o resultado final é dado pela média ponderada das notas atribuídas a cada uma das etapas.
 
-**Nota importante:** Cada faculdade tem o seu próprio processo seletivo, porém em todas as faculdades se é publicado um edital com os passos a serem seguidos para inscrição,seleção e matrícula dos candidatos.
+    **Nota importante:** Cada faculdade tem o seu próprio processo seletivo, porém em todas as faculdades se é publicado um edital com os passos a serem seguidos para inscrição,seleção e matrícula dos candidatos.
 
 - **Pós-graduação no exterior**
     - **Como funciona a seleção para a pós-graduação no exterior?**

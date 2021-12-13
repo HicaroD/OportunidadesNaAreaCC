@@ -152,7 +152,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
         Os processos de seleção para programas de pós-graduação no exterior exigem cinco tipos de documentos: Histórico escolar / CV, Teste de idiomas, provas padronizadas como GMAT e GRE, Personal Statement, Cartas de recomendação. Além deles, programas de pós-graduação acadêmicos podem exigir um plano de pesquisa e cartas dos orientadores. E os processos podem ter entrevistas em algum momento também. Para saber mais como funciona o [GMAT](https://www.gmac.com/) e o [GRE](https://www.ets.org/gre/revised_general/about), acesse os sites oficiais.
 
         Também recomendo a leitura do [artigo](https://www.estudarfora.org.br/pos-graduacao-no-exterior/) escrito pela "Estudar Fora" onde explica detalhadamente cada um dos passos.
-        ![estudarFora](Imagens/Captura de tela de 2021-12-13 11-02-49.png)
+![estudarFora](Imagens/Captura de tela de 2021-12-13 11-02-49.png)
     
     - **Estudar Fora, a melhor fonte de informação sobre bolsas para estudar no exterior**
         

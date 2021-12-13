@@ -127,16 +127,16 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
     O curso que oferece um conhecimento teórico mais profundo do que o mestrado acadêmico, buscando avanços reais no conhecimento.Tem uma duração de quatro a cinco anos. Leia mais [aqui](https://guiadoestudante.abril.com.br/pos-graduacao/entenda-como-funciona-o-doutorado/) 
     ![Imagem sobre doutorado e mestrado](https://network.grupoabril.com.br/wp-content/uploads/sites/4/2016/10/tipos-pos-31.jpg?quality=70&strip=all)
 
-*Fonte: guiadoestudante.abril.com.br/*
+    *Fonte: guiadoestudante.abril.com.br/*
 
 - **Pós-graduação no Brasil**
-    1. **Como escolher um mestrado ou doutorado?**
+    - **Como escolher um mestrado ou doutorado?**
 
         É sempre bom, ao pesquisar programas de mestrado ou doutorado, olhar qual é a nota do conceito CAPES. E o seria isso? O Conceito CAPES é uma avaliação periódica dos cursos de pós-graduação (mestrados e doutorados) do país, atualmente realizada a cada 4 anos.Na escala do mestrado, a nota máxima é 5. Já para o doutorado, 7 é o conceito máximo. Leia mais sobre ao que se refere cada nota do [conceito CAPES](https://www.ifsudestemg.edu.br/noticias/sjdr/2020/12/biblioteca-esclarece-sobre-o-que-e-o-conceito-capes#)
 
         A PUCRS(Pontifícia Universidade Católica do Rio Grande do Sul) escreveu um artigo descrevendo como escolher qual linha de pesquisa seguir no mestrado ou doutorado e como essa decisão influencia tanto na elaboração do projeto de pesquisa quanto na preparação para a seleção do Pós-Graduação. Leia o artigo [aqui](https://www.pucrs.br/blog/como-escolher-qual-linha-de-pesquisa-seguir-no-mestrado-e-doutorado/)
 
-    2. **O que é o Instituto de Computação da UFAL?**
+    - **O que é o Instituto de Computação da UFAL?**
 
         O Instituto de Computação (IC) da Universidade Federal de Alagoas (UFAL) é a unidade acadêmica responsável pelo desenvolvimento do ensino, pesquisa e extensão nas áreas de Computação e Estatística. O IC realiza a formação de recursos humanos através de seus cursos regulares de graduação e de pós-graduação (mestrado) e cursos eventuais de especialização e extensão.
 
@@ -145,6 +145,20 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
         Agora, como funciona o processo seletivo? Para isso, é lançado um edital na página do mestrado e com ele se dá início ao processo seletivo. Nele contém todas as informações relevantes,como o prazo do processo,a quantidade de vagas e as etapas a serem seguidas. Usualmente é feito duas etapas: Avaliação do Pré-Projeto de Pesquisa(PP) e Prova de Título(PT). E o resultado final é dado pela média ponderada das notas atribuídas a cada uma das etapas.
 
 **Nota importante:** Cada faculdade tem o seu próprio processo seletivo, porém em todas as faculdades se é publicado um edital com os passos a serem seguidos para inscrição,seleção e matrícula dos candidatos.
+
+- **Pós-graduação no exterior**
+    - **Como funciona a seleção para a pós-graduação no exterior?**
+
+        Os processos de seleção para programas de pós-graduação no exterior exigem cinco tipos de documentos: Histórico escolar / CV, Teste de idiomas, provas padronizadas como GMAT e GRE, Personal Statement, Cartas de recomendação. Além deles, programas de pós-graduação acadêmicos podem exigir um plano de pesquisa e cartas dos orientadores. E os processos podem ter entrevistas em algum momento também. Para saber mais como funciona o [GMAT](https://www.gmac.com/) e o [GRE](https://www.ets.org/gre/revised_general/about), acesse os sites oficiais.
+
+        Também recomendo a leitura do [artigo](https://www.estudarfora.org.br/pos-graduacao-no-exterior/) escrito pela "Estudar Fora" onde explica detalhadamente cada um dos passos.
+        ![estudarFora](Imagens/Captura de tela de 2021-12-13 11-02-49.png)
+    
+    - **Estudar Fora, a melhor fonte de informação sobre bolsas para estudar no exterior**
+        
+        Estudar Fora é uma iniciativa da Fundação Estudar que ajuda jovens brasileiros a alcançarem o sonho de estudar fora por meio de conteúdo digital e um preparatório especializado.Ele é um site que,para quem tem interesse em estudar no exterior, deve sempre estar acompanhando. 
+        Todos os meses o Estudar Fora compila as melhores bolsas de estudo com inscrições abertas. As bolsas são voltadas para estudantes falantes de língua portuguesa do Brasil e de países como Angola, Moçambique e Portugal.
+        No site também é possível filtrar para bolsas destinadas à área de TI,além de escolher o país de interesse.
 
 ### Projeto de Extensão e Pesquisa
 - **Pesquisa**

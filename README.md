@@ -125,9 +125,10 @@ Através da UFAL, o Edge é credenciado no Comitê da Área de Tecnologia de Inf
 Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que nunca estudaram na UFAL. Para isso, entre nesse [link](https://docs.google.com/forms/d/e/1FAIpQLSdNScG_SJjpNiDuBu7Kl42ST2b2nbpq38NyFq13tPpWOF_lLw/viewform) para acessar o banco de talentos e inscrever-se.
 
 - **Contatos do EDGE:**
-    Site: http://edgebr.org/
-    Linkedin: https://br.linkedin.com/company/edge-inovacao
-    GitHub: https://github.com/edgebr
+
+      Site: http://edgebr.org/
+      Linkedin: https://br.linkedin.com/company/edge-inovacao
+      GitHub: https://github.com/edgebr
 
 ### Eventos
 - **AraComp (2018)**

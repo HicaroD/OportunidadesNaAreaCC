@@ -61,6 +61,60 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
 
 ### GEDAI
 ### CICA
+
+    O Centro de Inovação do Campus Arapiraca (CICA-UFAL) é um programa que visa estimular a pesquisa e desenvolvimento na área de tecnologia da informação, contribuindo para a formação de recursos humanos qualificados e o desenvolvimento tecnológico nacional, especialmente no interior do Estado de Alagoas.
+
+    Vinculado ao Campus Arapiraca da UFAL, o CICA oferece uma série de possibilidades de parcerias por meio de projetos de pesquisa, desenvolvimento e inovação tecnológica, especialmente nas áreas de tecnologia da informação, comunicação e automação.
+
+    Nesse contexto, o CICA tem atuado com esforços em pesquisa e desenvolvimento na proposição de soluções tecnológicas inovadoras para problemas enfrentados por empresas públicas e privadas. Para isso se faz necessária a formação de equipes qualificadas em diferentes áreas e com conhecimentos em diversas tecnologias. 
+
+    Segundo o professor Mário Hozano, um dos responsáveis pelo CICA, o banco de talentos do CICA é aberto a qualquer pessoa que queira ingressar no time, seja aluno, ex-aluno ou que nunca tenha sido aluno da universidade.
+
+    **Hoje o CICA já conta com:**
+
+        - +200 Professores doutores, mestres e especialistas
+        - +100 Técnicos com dedicação integral em diversas áreas.
+        - +5000 Estudantes oriundos de diversos municípios alagoanos.
+        - +25 Cursos de graduação, especialização e mestrado.
+
+    **Com que trabalha o CICA?**
+
+        - Aplicações Web: Desenvolvimento de Sistemas acessíveis pela Internet e Intranet com a utilização dos padrões Web
+        - Aplicativos Móveis: Criação de aplicativos para dispositivos móveis em sistemas integrados para diversas plataformas
+        - Prototipação de Hardware: Prototipação de circuitos eletrônicos, robótica e outros hardwares com sistemas embarcados
+        - Pesquisa Direcionada: Estudos quantitativos e qualitativos objetivando conhecimentos para solucionar problemas reais
+        - Consultoria Tecnológica: Suporte em busca da melhor forma de usar a tecnologia da informação para alcançar objetivos específicos
+        - Treinamentos: Desenvolvimento de pessoas com com conhecimentos para o uso de tecnologias e gestão da inovação
+
+    - **Desenvolvidos nos laboratórios de:**
+
+        ![latad](Imagens/latad.png)
+        - **LaTAD**: Laboratório de Tecnologias Assistivas Digitais
+
+
+        ![paiva](Imagens/paiva.png)
+        - **PAIVA**: Laboratório de Processamento e Análise de Imagens e Visualização
+
+
+        ![multicomp](Imagens/multicomp.png)
+        - **MultiComp**: Laboratório Multidisciplinar de Computação
+
+
+        ![3factor](Imagens/3factor.png)
+        - **3Factor**: Laboratório de Sistemas Escaláveis
+
+
+        ![lica](Imagens/lica.png)
+        - **LICA**: Laboratório de Inteligência Computacional Aplicada
+
+
+        ![lamp](Imagens/lamp.png)
+        - **LAMP**: Laboratório de Análise, Modelagem e Programação
+
+    - **Mais sobre o CICA:**
+
+        Segue [aqui](https://bit.ly/cica-ufal) o link para o banco de talentos do CICA, além do link para o [site oficial do CICA](https://cica.arapiraca.ufal.br/), veja na parte do inferior da página oficial do CICA mais informações sobre contato e localização em Arapiraca.
+        
 ### EDGE
 ### Eventos
 - **AraComp (2018)**

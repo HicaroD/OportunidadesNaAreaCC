@@ -116,6 +116,19 @@ Segundo o professor Mário Hozano, um dos responsáveis pelo CICA, o banco de ta
     Segue [aqui](https://bit.ly/cica-ufal) o link para o banco de talentos do CICA, além do link para o [site oficial do CICA](https://cica.arapiraca.ufal.br/), veja na parte do inferior da página oficial do CICA mais informações sobre contato e localização em Arapiraca.
         
 ### EDGE
+O Edge faz parte do Instituto de Computação da Universidade Federal de Alagoas (UFAL), em Maceió. Os líderes do laboratório possuem histórico de parcerias com empresas e desenvolvimento de projetos de pesquisa e inovação.
+
+O Edge foi criado em 2015 com a missão de criar em Alagoas uma referência regional na pesquisa e desenvolvimento de projetos de tecnologia da informação.
+
+Através da UFAL, o Edge é credenciado no Comitê da Área de Tecnologia de Informação (CATI) para receber recursos da Lei de Informática.
+
+Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que nunca estudaram na UFAL. Para isso, entre nesse [link](https://docs.google.com/forms/d/e/1FAIpQLSdNScG_SJjpNiDuBu7Kl42ST2b2nbpq38NyFq13tPpWOF_lLw/viewform) para acessar o banco de talentos e inscrever-se.
+
+- **Contatos do EDGE:**
+    Site: http://edgebr.org/
+    Linkedin: https://br.linkedin.com/company/edge-inovacao
+    GitHub: https://github.com/edgebr
+
 ### Eventos
 - **AraComp (2018)**
 

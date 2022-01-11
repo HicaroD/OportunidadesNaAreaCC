@@ -195,9 +195,11 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
     Instalado no NCEx o laboratório engloba dois outros laboratórios:
 
     1. **Laboratório de Modelagem e Análise de Redes Complexas (LaMARC)**
+
     Encontra-se no Núcleo de Ciências Exatas da UFAL/ARAPIRACA e tem como objetivo estudar redes tecnológicas usando da teoria de redes complexas. Utilizando-se o arcabouço matemático oferecido pela teoria de redes complexas é possível definir uma infraestrutura eficaz e eficiente que atenda às necessidades das redes tecnológicas, e garanta a qualidade dos serviços por elas oferecidos. São realizadas pesquisas em Redes Veiculares, Redes de Distribuição de Energia, Internet e Imagens. O grupo possui a colaboração de pesquisadores do Laboratório de Computação Científica e Análise Numérica (LaCCAN) que encontra-se nas dependências do CPMAT (Centro de Pesquisas em Matemática Computacional) da UFAL (Universidade Federal de Alagoas). 
 
     2. **Laboratório de Processamento e Análise de Imagens e Visualização Analítica – PAIVA**
+
     O grupo PAIVA desenvolve projetos em diversas áreas relacionadas à visualização, análise visual, imagem e computação gráfica.
     
     No processamento de imagens, os projetos estão relacionados ao reconhecimento de padrões, visão computacional e classificação de imagens.

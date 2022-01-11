@@ -185,6 +185,51 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
     O nome do projeto foi inspirado na jovem cientista da computação Katie Bouman, que foi uma das responsáveis pela reprodução da primeira imagem de um buraco negro. E, assim como Katie Bouman, o projeto Katie busca incentivar mulheres a fazerem descobertas incríveis.
 
 ### Laboratórios
+
+- **Laboratório de Ensino de Ciência da Computação (LECC)**
+
+Criado em 2010 pelos professores do curso de Ciência da Computação e tem como objetivo principal oferecer um espaço de ensino, incluindo atividades como aulas de disciplinas do curso, palestras e minicursos. O LECC ocupa duas salas com uma área de aproximadamente 70 m2 no Bloco C da Universidade Federal de Alagoas e atualmente conta com 33 computadores, sendo 15 máquinas Itautec e 18 máquinas HP. Os computadores Itautec possuem processador Pentium Dual-Core, 2GB de memória RAM e HD de 320 GB. Os computadores HP contam com um processador intel Core i5, 4 GB de memória RAM e HD de 320 GB. Todas as máquinas possuem dual boot com Windows e Linux Ubuntu. O LECC é gerenciado pelo Grupo de Estudos Dirigidos dos Alunos de Informática (GEDAI), grupo este responsável pela configuração das máquinas e ferramentas. O grupo atualmente é formado por quatro estudantes voluntários incentivados: pelo aprendizado direcionado, participação gratuita em eventos organizados pelo curso de Computação, aproveitamento de carga horária flexiva, entre outros.
+
+- **Laboratório de Computação Gráfica e Processamento de Imagens**
+
+Instalado no NCEx o laboratório engloba dois outros laboratórios:
+
+  1. **Laboratório de Modelagem e Análise de Redes Complexas (LaMARC)**
+  Encontra-se no Núcleo de Ciências Exatas da UFAL/ARAPIRACA e tem como objetivo estudar redes tecnológicas usando da teoria de redes complexas. Utilizando-se o arcabouço matemático oferecido pela teoria de redes complexas é possível definir uma infraestrutura eficaz e eficiente que atenda às necessidades das redes tecnológicas, e garanta a qualidade dos serviços por elas oferecidos. São realizadas pesquisas em Redes Veiculares, Redes de Distribuição de Energia, Internet e Imagens. O grupo possui a colaboração de pesquisadores do Laboratório de Computação Científica e Análise Numérica (LaCCAN) que encontra-se nas dependências do CPMAT (Centro de Pesquisas em Matemática Computacional) da UFAL (Universidade Federal de Alagoas). 
+
+  2. **Laboratório de Processamento e Análise de Imagens e Visualização Analítica – PAIVA**
+  O grupo PAIVA desenvolve projetos em diversas áreas relacionadas à visualização, análise visual, imagem e computação gráfica.
+
+  No processamento de imagens, os projetos estão relacionados ao reconhecimento de padrões, visão computacional e classificação de imagens.
+
+  Na visualização, trabalhamos com análise visual de dados multidimensionais complexos.
+  
+  Nós buscamos trabalhar no campo do Visual Analytics, integrando mineração e visualização na busca de maneiras eficazes de apoiar a exploração de dados multidimensionais complexos.
+  
+  Investigamos técnicas para tratar conjuntos de dados cada vez maiores, com muitos atributos de natureza variada.
+ 
+-  **CICA – Centro de Inovação Colaborativa de Arapiraca**
+
+O Centro de Inovação Colaborativa de Arapiraca (CICA) é um programa da Universidade Federal de Alagoas que visa favorecer o desenvolvimento regional a partir da promoção de Inovação Colaborativa entre a Universidade e Pessoas Jurídicas/Físicas do Setor Público e Privado. Vinculado ao Campus Arapiraca da UFAL, o CICA oferece uma série de possibilidades de parcerias por meio de projetos de pesquisa, desenvolvimento e inovação tecnológica, especialmente nas áreas de tecnologia da informação, comunicação e automação. 
+  
+Estão inclusos os seguintes laboratórios: 
+
+  1. **3Factor**
+  Desenvolvimento de sistemas complexos de larga escala para múltiplas plataformas.
+
+  2. **Laboratório de Inteligência Computacional Aplicada (LICA)**
+  Interesses: modelagem de séries temporais, detecção de doenças em imagens, mercado financeiro, modelagem de jogador.
+
+  3. **Laboratório de Análise, Modelagem e Programação – LAMP**
+  O Laboratório de Análise, Modelagem e Programação - LAMP foi criado em agosto de 2010 pelos professores Mário Hozano e Alexandre Barbosa com a finalidade de criar um ponto de referência em Tecnologia de Informação no agreste alagoano. A equipe do LAMP é formada por professores, alunos, ex-alunos e profissionais. O laboratório já realizou projetos em parceria com a Fundação de Amparo à Pesquisa do Estado de Alagoas - (FAPEAL), a Secretaria de Ciência, Tecnologia e Inovação do Estado de Alagoas (SECTI) e o Grupo de Tecnologia da Informação da Prefeitura de Arapiraca (GTInfo) e diversas empresas de Arapiraca e região. 
+
+  4. **Laboratório Multidisciplinar de Computação – LabMulti/MultiComp**
+  Criado em 2016 e acolhe trabalhos de pesquisa (científica e/ou tecnológica) e de extensão que tenham a Computação como área fim ou meio, eventualmente envolvendo outras áreas do conhecimento. 
+
+  5. **Laboratório de Tecnologias Assistivas Digitais – LaTAD**
+  O Laboratório de Tecnologias Assistivas Digitais (LaTAD) desenvolve tecnologias que visam a melhoria da qualidade de vida das pessoas com necessidades especiais. As principais frentes de trabalho existentes no laboratório atualmente visam ampliar e favorecer a inclusão de pessoas com necessidades especiais na sociedade. Tais iniciativas envolvem, por exemplo, soluções de tradução automática e jogos educativos voltados à aquisição de segunda língua. No contexto de pessoas surdas, o laboratório mantém uma plataforma gratuita para tradução automática de português para Libras, denominada Falibras, voltada à inclusão de pessoas surdas na sociedade ouvinte. Tal plataforma pode ser utilizada livremente por empresas e instituições que desejem promover a inclusão de pessoas surdas via interfaces bilíngues. A título de exemplos, a plataforma Falibras já foi integrada a jogos educativos, navegadores Web e ao aplicativo de mensagens Telegram.
+
+  
 ### Mestrados, Doutorados e especializações
 - **O que é um mestrado?**
 

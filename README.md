@@ -116,6 +116,7 @@ Segundo o professor Mário Hozano, um dos responsáveis pelo CICA, o banco de ta
     Segue [aqui](https://bit.ly/cica-ufal) o link para o banco de talentos do CICA, além do link para o [site oficial do CICA](https://cica.arapiraca.ufal.br/), veja na parte do inferior da página oficial do CICA mais informações sobre contato e localização em Arapiraca.
         
 ### EDGE
+
 O Edge faz parte do Instituto de Computação da Universidade Federal de Alagoas (UFAL), em Maceió. Os líderes do laboratório possuem histórico de parcerias com empresas e desenvolvimento de projetos de pesquisa e inovação.
 
 O Edge foi criado em 2015 com a missão de criar em Alagoas uma referência regional na pesquisa e desenvolvimento de projetos de tecnologia da informação.
@@ -164,6 +165,7 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
 
 ### Katie
 ![katie](Imagens/259085976_3043042302691074_6037594137446582976_n.jpg)
+
 - **O que é o projeto Katie?**
 
     É um projeto de extensão feito por meninas estudantes de Ciência da Computação do Instituto de Computação da UFAL. E que agora estará presente também na UFAL campus Arapiraca sob coordenação da Professora Raquel Cabral, a qual pretende aumentar a abrangência do projeto nos campi do interior.
@@ -196,19 +198,19 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
 
     1. **Laboratório de Modelagem e Análise de Redes Complexas (LaMARC)**
 
-    Encontra-se no Núcleo de Ciências Exatas da UFAL/ARAPIRACA e tem como objetivo estudar redes tecnológicas usando da teoria de redes complexas. Utilizando-se o arcabouço matemático oferecido pela teoria de redes complexas é possível definir uma infraestrutura eficaz e eficiente que atenda às necessidades das redes tecnológicas, e garanta a qualidade dos serviços por elas oferecidos. São realizadas pesquisas em Redes Veiculares, Redes de Distribuição de Energia, Internet e Imagens. O grupo possui a colaboração de pesquisadores do Laboratório de Computação Científica e Análise Numérica (LaCCAN) que encontra-se nas dependências do CPMAT (Centro de Pesquisas em Matemática Computacional) da UFAL (Universidade Federal de Alagoas). 
+       Encontra-se no Núcleo de Ciências Exatas da UFAL/ARAPIRACA e tem como objetivo estudar redes tecnológicas usando da teoria de redes complexas. Utilizando-se o arcabouço matemático oferecido pela teoria de redes complexas é possível definir uma infraestrutura eficaz e eficiente que atenda às necessidades das redes tecnológicas, e garanta a qualidade dos serviços por elas oferecidos. São realizadas pesquisas em Redes Veiculares, Redes de Distribuição de Energia, Internet e Imagens. O grupo possui a colaboração de pesquisadores do Laboratório de Computação Científica e Análise Numérica (LaCCAN) que encontra-se nas dependências do CPMAT (Centro de Pesquisas em Matemática Computacional) da UFAL (Universidade Federal de Alagoas). 
 
     2. **Laboratório de Processamento e Análise de Imagens e Visualização Analítica – PAIVA**
 
-    O grupo PAIVA desenvolve projetos em diversas áreas relacionadas à visualização, análise visual, imagem e computação gráfica.
+       O grupo PAIVA desenvolve projetos em diversas áreas relacionadas à visualização, análise visual, imagem e computação gráfica.
     
-    No processamento de imagens, os projetos estão relacionados ao reconhecimento de padrões, visão computacional e classificação de imagens.
+       No processamento de imagens, os projetos estão relacionados ao reconhecimento de padrões, visão computacional e classificação de imagens.
     
-    Na visualização, trabalhamos com análise visual de dados multidimensionais complexos.
+       Na visualização, trabalhamos com análise visual de dados multidimensionais complexos.
     
-    Nós buscamos trabalhar no campo do Visual Analytics, integrando mineração e visualização na busca de maneiras eficazes de apoiar a exploração de dados multidimensionais complexos.
+       Nós buscamos trabalhar no campo do Visual Analytics, integrando mineração e visualização na busca de maneiras eficazes de apoiar a exploração de dados multidimensionais complexos.
     
-    Investigamos técnicas para tratar conjuntos de dados cada vez maiores, com muitos atributos de natureza variada.
+       Investigamos técnicas para tratar conjuntos de dados cada vez maiores, com muitos atributos de natureza variada.
  
 -  **CICA – Centro de Inovação Colaborativa de Arapiraca**
 
@@ -218,23 +220,23 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
 
     1. **3Factor**
 
-    Desenvolvimento de sistemas complexos de larga escala para múltiplas plataformas.
+       Desenvolvimento de sistemas complexos de larga escala para múltiplas plataformas.
 
     2. **Laboratório de Inteligência Computacional Aplicada (LICA)**
 
-    Interesses: modelagem de séries temporais, detecção de doenças em imagens, mercado financeiro, modelagem de jogador.
+       Interesses: modelagem de séries temporais, detecção de doenças em imagens, mercado financeiro, modelagem de jogador.
 
     3. **Laboratório de Análise, Modelagem e Programação – LAMP**
 
-    O Laboratório de Análise, Modelagem e Programação - LAMP foi criado em agosto de 2010 pelos professores Mário Hozano e Alexandre Barbosa com a finalidade de criar um ponto de referência em Tecnologia de Informação no agreste alagoano. A equipe do LAMP é formada por professores, alunos, ex-alunos e profissionais. O laboratório já realizou projetos em parceria com a Fundação de Amparo à Pesquisa do Estado de Alagoas - (FAPEAL), a Secretaria de Ciência, Tecnologia e Inovação do Estado de Alagoas (SECTI) e o Grupo de Tecnologia da Informação da Prefeitura de Arapiraca (GTInfo) e diversas empresas de Arapiraca e região. 
+       O Laboratório de Análise, Modelagem e Programação - LAMP foi criado em agosto de 2010 pelos professores Mário Hozano e Alexandre Barbosa com a finalidade de criar um ponto de referência em Tecnologia de Informação no agreste alagoano. A equipe do LAMP é formada por professores, alunos, ex-alunos e profissionais. O laboratório já realizou projetos em parceria com a Fundação de Amparo à Pesquisa do Estado de Alagoas - (FAPEAL), a Secretaria de Ciência, Tecnologia e Inovação do Estado de Alagoas (SECTI) e o Grupo de Tecnologia da Informação da Prefeitura de Arapiraca (GTInfo) e diversas empresas de Arapiraca e região. 
 
     4. **Laboratório Multidisciplinar de Computação – LabMulti/MultiComp**
 
-    Criado em 2016 e acolhe trabalhos de pesquisa (científica e/ou tecnológica) e de extensão que tenham a Computação como área fim ou meio, eventualmente envolvendo outras áreas do conhecimento. 
+       Criado em 2016 e acolhe trabalhos de pesquisa (científica e/ou tecnológica) e de extensão que tenham a Computação como área fim ou meio, eventualmente envolvendo outras áreas do conhecimento. 
 
     5. **Laboratório de Tecnologias Assistivas Digitais – LaTAD**
 
-    O Laboratório de Tecnologias Assistivas Digitais (LaTAD) desenvolve tecnologias que visam a melhoria da qualidade de vida das pessoas com necessidades especiais. As principais frentes de trabalho existentes no laboratório atualmente visam ampliar e favorecer a inclusão de pessoas com necessidades especiais na sociedade. Tais iniciativas envolvem, por exemplo, soluções de tradução automática e jogos educativos voltados à aquisição de segunda língua. No contexto de pessoas surdas, o laboratório mantém uma plataforma gratuita para tradução automática de português para Libras, denominada Falibras, voltada à inclusão de pessoas surdas na sociedade ouvinte. Tal plataforma pode ser utilizada livremente por empresas e instituições que desejem promover a inclusão de pessoas surdas via interfaces bilíngues. A título de exemplos, a plataforma Falibras já foi integrada a jogos educativos, navegadores Web e ao aplicativo de mensagens Telegram.
+       O Laboratório de Tecnologias Assistivas Digitais (LaTAD) desenvolve tecnologias que visam a melhoria da qualidade de vida das pessoas com necessidades especiais. As principais frentes de trabalho existentes no laboratório atualmente visam ampliar e favorecer a inclusão de pessoas com necessidades especiais na sociedade. Tais iniciativas envolvem, por exemplo, soluções de tradução automática e jogos educativos voltados à aquisição de segunda língua. No contexto de pessoas surdas, o laboratório mantém uma plataforma gratuita para tradução automática de português para Libras, denominada Falibras, voltada à inclusão de pessoas surdas na sociedade ouvinte. Tal plataforma pode ser utilizada livremente por empresas e instituições que desejem promover a inclusão de pessoas surdas via interfaces bilíngues. A título de exemplos, a plataforma Falibras já foi integrada a jogos educativos, navegadores Web e ao aplicativo de mensagens Telegram.
 
   
 ### Mestrados, Doutorados e especializações

@@ -217,18 +217,23 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
     Estão inclusos os seguintes laboratórios: 
 
     1. **3Factor**
+
     Desenvolvimento de sistemas complexos de larga escala para múltiplas plataformas.
 
     2. **Laboratório de Inteligência Computacional Aplicada (LICA)**
+
     Interesses: modelagem de séries temporais, detecção de doenças em imagens, mercado financeiro, modelagem de jogador.
 
     3. **Laboratório de Análise, Modelagem e Programação – LAMP**
+
     O Laboratório de Análise, Modelagem e Programação - LAMP foi criado em agosto de 2010 pelos professores Mário Hozano e Alexandre Barbosa com a finalidade de criar um ponto de referência em Tecnologia de Informação no agreste alagoano. A equipe do LAMP é formada por professores, alunos, ex-alunos e profissionais. O laboratório já realizou projetos em parceria com a Fundação de Amparo à Pesquisa do Estado de Alagoas - (FAPEAL), a Secretaria de Ciência, Tecnologia e Inovação do Estado de Alagoas (SECTI) e o Grupo de Tecnologia da Informação da Prefeitura de Arapiraca (GTInfo) e diversas empresas de Arapiraca e região. 
 
     4. **Laboratório Multidisciplinar de Computação – LabMulti/MultiComp**
+
     Criado em 2016 e acolhe trabalhos de pesquisa (científica e/ou tecnológica) e de extensão que tenham a Computação como área fim ou meio, eventualmente envolvendo outras áreas do conhecimento. 
 
     5. **Laboratório de Tecnologias Assistivas Digitais – LaTAD**
+
     O Laboratório de Tecnologias Assistivas Digitais (LaTAD) desenvolve tecnologias que visam a melhoria da qualidade de vida das pessoas com necessidades especiais. As principais frentes de trabalho existentes no laboratório atualmente visam ampliar e favorecer a inclusão de pessoas com necessidades especiais na sociedade. Tais iniciativas envolvem, por exemplo, soluções de tradução automática e jogos educativos voltados à aquisição de segunda língua. No contexto de pessoas surdas, o laboratório mantém uma plataforma gratuita para tradução automática de português para Libras, denominada Falibras, voltada à inclusão de pessoas surdas na sociedade ouvinte. Tal plataforma pode ser utilizada livremente por empresas e instituições que desejem promover a inclusão de pessoas surdas via interfaces bilíngues. A título de exemplos, a plataforma Falibras já foi integrada a jogos educativos, navegadores Web e ao aplicativo de mensagens Telegram.
 
   

@@ -342,4 +342,4 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
 
 Obrigado aos integrantes da equipe pelas suas contribuções, Caio Henrique Teixeira Santos, Lucas Barbosa Leite, Raíssa, Rebeca Oliveira Correia Queiroz, Caio Henrique Teixeira Santos, Flávio Marcelo, Hícaro Dânrlley, Maria Luiza, Humberto e Emerson Ferreira Da Silva.
 
-Adicionalmente, gostaria também de agradecer ao Silas Emanoel que contribuiu para pesquisa de intercâmbios e a professora Raquel Cabral em virtude de suas contribuições à pesquisa sobre o programa "Katie".
+Adicionalmente, gostaria também de agradecer ao Silas Emanoel que contribuiu para pesquisa de intercâmbios e a professora Raquel Cabral em virtude de suas contribuições à pesquisa sobre o programa "Katie". Muito obrigado!

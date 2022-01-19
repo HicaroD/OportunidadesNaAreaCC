@@ -89,27 +89,27 @@ Segundo o professor Mário Hozano, um dos responsáveis pelo CICA, o banco de ta
 
 - **Desenvolvidos nos laboratórios de:**
 
-    ![latad](Imagens/latad.png)
+        ![latad](Imagens/latad.png)
     - **LaTAD**: Laboratório de Tecnologias Assistivas Digitais
 
 
-    ![paiva](Imagens/paiva.png)
+        ![paiva](Imagens/paiva.png)
     - **PAIVA**: Laboratório de Processamento e Análise de Imagens e Visualização
 
 
-    ![multicomp](Imagens/multicomp.png)
+        ![multicomp](Imagens/multicomp.png)
     - **MultiComp**: Laboratório Multidisciplinar de Computação
 
 
-    ![3factor](Imagens/3factor.png)
+        ![3factor](Imagens/3factor.png)
     - **3Factor**: Laboratório de Sistemas Escaláveis
 
 
-    ![lica](Imagens/lica.png)
+        ![lica](Imagens/lica.png)
     - **LICA**: Laboratório de Inteligência Computacional Aplicada
 
 
-    ![lamp](Imagens/lamp.png)
+        ![lamp](Imagens/lamp.png)
     - **LAMP**: Laboratório de Análise, Modelagem e Programação
 
 - **Mais sobre o CICA:**

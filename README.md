@@ -17,6 +17,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
   - [Mestrados, Doutorados e especializações](#mestrados-doutorados-e-especializações)
   - [Projeto de Extensão / Pesquisa](#projeto-de-extensão-e-pesquisa)
   - [Intercâmbios](#intercâmbios)
+  - [Agradecimentos](#agradecimentos)
 
 ## Conteúdo
 ### Monitorias
@@ -336,3 +337,7 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
 - [PIBIC](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) (Programa Institucional de Bolsas de Iniciação Científica)
 
     Adicionalmente, temos o PIBIC. Apesar de não estar inteiramente relacionado a intercâmbios, o PIBIC até hoje promove oportunidades aos alunos de despertar sua vocação científico e, assim, aprimorar seu pensamento crítico, habilidades de pesquisa e fazer contribuições para o ramo acadêmico, muitos deles conseguem ter o prazo de fazer viagens para outros países ao redor do mundo. Em virtude do período pandêmico, muitos alunos que estavam com as malas prontas para a viagem ao exterior não puderam viajar no ano de 2021.
+
+### Agradecimentos
+
+Obrigado pelas suas contribuções, Rodrigo, Lucas Barbosa Leite, Raíssa, Rebeca, Caio Henrique, Marcelo, Hícaro, Maria Luiza, Humberto e Emerson.

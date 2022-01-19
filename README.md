@@ -8,10 +8,10 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
   - [Monitorias](#monitorias)
   - [Estágios](#estágios)
   - [GEDAI](#gedai)
-  - [CICA](#cacc-centro-acadêmico-de-ciência-da-computação)
+  - [CICA](#cica)
   - [EDGE](#edge)
   - [Eventos](#eventos)
-  - [CACC](#cacc)
+  - [CACC](#cacc-centro-acadêmico-de-ciência-da-computação)
   - [Katie](#katie)
   - [Laboratórios](#laboratórios)
   - [Mestrados, Doutorados e especializações](#mestrados-doutorados-e-especializações)
@@ -89,7 +89,7 @@ Segundo o professor Mário Hozano, um dos responsáveis pelo CICA, o banco de ta
 
 - **Desenvolvidos nos laboratórios de:**
 
-        ![latad](Imagens/latad.png)
+     ![latad](Imagens/latad.png)
     - **LaTAD**: Laboratório de Tecnologias Assistivas Digitais
 
 

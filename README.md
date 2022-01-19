@@ -8,7 +8,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
   - [Monitorias](#monitorias)
   - [Estágios](#estágios)
   - [GEDAI](#gedai)
-  - [CICA](#cica)
+  - [CICA](#cacc-centro-acadêmico-de-ciência-da-computação)
   - [EDGE](#edge)
   - [Eventos](#eventos)
   - [CACC](#cacc)

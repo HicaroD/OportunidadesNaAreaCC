@@ -340,4 +340,4 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
 
 ### Agradecimentos
 
-Obrigado pelas suas contribuções, Rodrigo, Lucas Barbosa Leite, Raíssa, Rebeca, Caio Henrique, Marcelo, Hícaro, Maria Luiza, Humberto e Emerson.
+Obrigado aos integrantes da equipe pelas suas contribuções, Caio Henrique Teixeira Santos, Lucas Barbosa Leite, Raíssa, Rebeca Oliveira Correia Queiroz, Caio Henrique Teixeira Santos, Flávio Marcelo, Hícaro Dânrlley, Maria Luiza, Humberto e Emerson Ferreira Da Silva.

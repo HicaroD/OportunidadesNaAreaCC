@@ -61,6 +61,16 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
     Aprenda mais sobre como estágios funcionam na UFAL lendo o manual do estágio [aqui](https://arapiraca.ufal.br/graduacao/ciencia-da-computacao/documentos/manual_estagio.pdf/view)
 
 ### GEDAI
+   O GEDAI é um Grupo de Estudos Dirigidos dos Alunos de Informática. “Os GEDAIs ajudam na organização dos laboratórios LECCs, bem como desenvolvem projetos de extensão (quando necessário!), ou podem também executar atividades como organização de minicursos, oficinas etc. A carga horária de cada GEDAI é de pelo menos 1h-2hs semanais.” informou o professor Thiago Bruno, atual coordenador dos GEDAIs.
+
+   O professor também disse que não existe um período específico para inscrições, e que normalmente elas ocorrem quando algum GEDAI sai do grupo, ou quando percebem que o grupo está sobrecarregado. Também é possível acontecer de novos alunos se interessarem, e aí os professores abrem novos processos de seleção. 
+
+- **O que é necessário para se tornar um GEDAI?**
+
+   “No processo de inscrição, os alunos precisam demonstrar que têm, como escolha primordial, a sede de ajudar e aprender. Nenhuma habilidade muito específica é exigida. Mas quanto mais habilidades técnicas, melhor!” concluiu professor Thiago.
+   Sendo assim, para se inscrever, é necessário ficar atento nos avisos dos grupos de email e whatsapp da UFAL, para receber a notícia da abertura de um novo processo seletivo, ou então, entrar em contato com algum dos professores do curso de Ciências da Computação e demonstrar interesse em participar do grupo.
+
+
 ### CICA
 
 O Centro de Inovação do Campus Arapiraca (CICA-UFAL) é um programa que visa estimular a pesquisa e desenvolvimento na área de tecnologia da informação, contribuindo para a formação de recursos humanos qualificados e o desenvolvimento tecnológico nacional, especialmente no interior do Estado de Alagoas.

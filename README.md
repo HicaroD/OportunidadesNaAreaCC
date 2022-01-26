@@ -1,6 +1,6 @@
 # Oportunidades na área de CC para os alunos
 Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciência da Computação com foco na UFAL (Universidade Federal de Alagoas).
-![introImage](Images/banner.jpg)
+![introImage](Imagens/banner.jpg)
 
 *Fonte da imagem: facebook.com/aracomp/*
 

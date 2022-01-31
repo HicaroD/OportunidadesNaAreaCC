@@ -64,6 +64,7 @@ Uma pesquisa sobre as oportunidades / planos de carreira para os alunos de Ciên
    O GEDAI é um Grupo de Estudos Dirigidos dos Alunos de Informática. “Os GEDAIs ajudam na organização dos laboratórios LECCs, bem como desenvolvem projetos de extensão (quando necessário!), ou podem também executar atividades como organização de minicursos, oficinas etc. A carga horária de cada GEDAI é de pelo menos 1h-2hs semanais.” informou o professor Thiago Bruno, atual coordenador dos GEDAIs.
 
    O professor também disse que não existe um período específico para inscrições, e que normalmente elas ocorrem quando algum GEDAI sai do grupo, ou quando percebem que o grupo está sobrecarregado. Também é possível acontecer de novos alunos se interessarem, e aí os professores abrem novos processos de seleção. 
+   Para saber mais, clique [aqui](https://sites.google.com/site/leccufal/gedais) e conheça o GEDAI mais de perto.
 
 - **O que é necessário para se tornar um GEDAI?**
 
@@ -249,6 +250,7 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
 
        O Laboratório de Tecnologias Assistivas Digitais (LaTAD) desenvolve tecnologias que visam a melhoria da qualidade de vida das pessoas com necessidades especiais. As principais frentes de trabalho existentes no laboratório atualmente visam ampliar e favorecer a inclusão de pessoas com necessidades especiais na sociedade. Tais iniciativas envolvem, por exemplo, soluções de tradução automática e jogos educativos voltados à aquisição de segunda língua. No contexto de pessoas surdas, o laboratório mantém uma plataforma gratuita para tradução automática de português para Libras, denominada Falibras, voltada à inclusão de pessoas surdas na sociedade ouvinte. Tal plataforma pode ser utilizada livremente por empresas e instituições que desejem promover a inclusão de pessoas surdas via interfaces bilíngues. A título de exemplos, a plataforma Falibras já foi integrada a jogos educativos, navegadores Web e ao aplicativo de mensagens Telegram.
 
+    Para saber mais sobre o CICA, clique [aqui](https://cica.arapiraca.ufal.br/)
   
 ### Mestrados, Doutorados e especializações
 - **O que é um mestrado?**
@@ -333,7 +335,7 @@ Assim como o CICA, o EDGE aceita tanto alunos, ex-alunos e também pessoas que n
 ### Intercâmbios
 - **Importância dos intercâmbios na vida do estudante**
     
-   Em uma pequena entrevista com um ex-discente do curso de Ciência da Computação do Campus Arapiraca chamado Silas Emanoel de Holanda Santos o qual participou de diversos intercâmbios em diversos países, como Portugal e Canadá, ele descreveu suas experiências e o quão importante os intercâmbios foram para sua carreira profissional. Segundo Silas, as experiências obtidas ainda geram frutos hodiernamente, elas contribuiram para a sua formação como ser humano e como um profissional mais hábil para enfrentar os desafios em sua área. Silas, em seu intercâmbio para o Canadá no ano de 2015, ele participou de congressos e centros de ensino que permitiram a ampliação de seus conhecimentos nos mais diversos campos da ciência, como Engenharia Civil, Engenharia Espacial e a Medicina.
+   Em uma pequena entrevista com um ex-discente do curso de Ciência da Computação do Campus Arapiraca chamado Silas Emanoel de Holanda Santos o qual participou de diversos intercâmbios em diversos países, como Portugal e Canadá, ele descreveu suas experiências e o quão importante os intercâmbios foram para sua carreira profissional. Segundo Silas, as experiências obtidas ainda geram frutos hodiernamente, as mesmas contribuiram para a sua formação como ser humano e como um profissional mais hábil para enfrentar os desafios em sua área. Silas, em seu intercâmbio para o Canadá no ano de 2015, ele participou de congressos e centros de ensino que permitiram a ampliação de seus conhecimentos nos mais diversos campos da ciência, como Engenharia Civil, Engenharia Espacial e a Medicina.
 
    Para todos os discentes e não-discentes que pretendem participar de um intercâmbio, mas estão inseguros em relação a como esse mundo de intercâmbios funciona, o Silas possui uma mensagem para vocês: *"Sem sombra de dúvidas: Realize o intercâmbio! A experiência abre os olhos para um novo horizonte e, é possível vislumbrar novas áreas de atuação dentro do curso, bem como ter contato com as pessoas que escrevem os livros que estudamos ou, ainda, ter contato com pessoas que contribuem para um network em todos os cantos do planeta. Vençam a barreira do medo da língua, seja ela qual for. Sair da zona de conforto e não ficar limitado as 4 paredes da sala de aula foi decisivo para que eu vivesse todas essas experiências"*
 
